@@ -1,2 +1,1 @@
-# project24F.github.io
-project 24
+# project-C24-template
